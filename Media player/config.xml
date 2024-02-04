@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget 
+    android-versionCode = '1'
+    id = 'com.DipeshRaj.MediaPlayer'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+   <name>MediaPlayer</name>
+   <description>mp3Player</description>
+   <author>DipeshRaj</author>
+
+   <preperfences name = 'orientation' value = 'portrait'/>
+
+   </widget>
